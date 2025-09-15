@@ -1,0 +1,10 @@
+[
+    {
+        "task": "과제 보고서 작성",
+        "done": true
+    },
+    {
+        "task": "GitHub에 프로젝트 올리기",
+        "done": false
+    }
+]
